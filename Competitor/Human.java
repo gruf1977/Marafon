@@ -1,4 +1,6 @@
-package Lesson_1.Marathon;
+package Lesson_1.Marathon.Competitor;
+
+
 
 public class Human implements Competitor {
     String name;

@@ -1,6 +1,5 @@
-package Lesson_1.Marathon;
+package Lesson_1.Marathon.Obstacle;
 
-import Lesson_1.Marathon.Obstacle.Obstacle;
 
 public class Course {
 

@@ -1,5 +1,8 @@
 package Lesson_1.Marathon;
 
+import Lesson_1.Marathon.Competitor.Competitor;
+import Lesson_1.Marathon.Competitor.Team;
+import Lesson_1.Marathon.Obstacle.Course;
 import Lesson_1.Marathon.Obstacle.Obstacle;
 
 public class Marafon {

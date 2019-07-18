@@ -1,7 +1,6 @@
 package Lesson_1.Marathon.Obstacle;
 
-import Lesson_1.Marathon.Competitor;
-import Lesson_1.Marathon.Obstacle.Obstacle;
+import Lesson_1.Marathon.Competitor.Competitor;
 
 public class Cross extends Obstacle {
     int length;

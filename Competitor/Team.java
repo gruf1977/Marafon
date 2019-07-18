@@ -1,8 +1,7 @@
-package Lesson_1.Marathon;
+package Lesson_1.Marathon.Competitor;
 
 
-
-class Team {
+public class Team {
 
     public String name;
     public Competitor[] ushastniki;
